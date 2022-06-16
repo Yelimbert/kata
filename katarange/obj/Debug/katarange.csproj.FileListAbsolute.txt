@@ -1,0 +1,8 @@
+C:\Users\Acer Aspire\source\repos\katarange\katarange\obj\Debug\katarange.csproj.AssemblyReference.cache
+C:\Users\Acer Aspire\source\repos\katarange\katarange\obj\Debug\katarange.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer Aspire\source\repos\katarange\katarange\obj\Debug\katarange.csproj.CoreCompileInputs.cache
+C:\Users\Acer Aspire\source\repos\katarange\katarange\bin\Debug\katarange.exe.config
+C:\Users\Acer Aspire\source\repos\katarange\katarange\bin\Debug\katarange.exe
+C:\Users\Acer Aspire\source\repos\katarange\katarange\bin\Debug\katarange.pdb
+C:\Users\Acer Aspire\source\repos\katarange\katarange\obj\Debug\katarange.exe
+C:\Users\Acer Aspire\source\repos\katarange\katarange\obj\Debug\katarange.pdb
